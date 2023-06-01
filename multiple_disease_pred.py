@@ -13,9 +13,9 @@ from streamlit_option_menu import option_menu
 
 diabetes_model = pickle.load(open('C:/Users/hp/Documents/Data Science/Health App/saved_models/diabetes_model.sav','rb'))
 
-heart_disease_model = pickle.load(open('C:/Users/hp/Documents/Data Science/Health_App/saved models/heart_disease_model.sav','rb'))
+heart_disease_model = pickle.load(open('C:/Users/hp/Documents/Data Science/Health App/saved_models/heart_disease_model.sav','rb'))
 
-parkinsons_model = pickle.load(open('C:/Users/hp/Documents/Data Science/Health_App/saved models/parkinsons_model.sav', 'rb'))
+parkinsons_model = pickle.load(open('C:/Users/hp/Documents/Data Science/Health App/saved_models/parkinsons_model.sav', 'rb'))
 
 
 
