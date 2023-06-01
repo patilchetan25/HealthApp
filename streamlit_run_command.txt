@@ -1,1 +1,1 @@
-streamlit run "C:\Users\hp\Documents\Data Science\Health App\multiple disease pred.py"
+
