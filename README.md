@@ -17,11 +17,11 @@ It's a multiple machine learning application of disease prediction
 
 * Inference: After training the three models we will be predicting the disease for the input symptoms by combining the predictions of all three models. This makes our overall prediction more robust and accurate.
 
-## Demo :point_down:
+## Demo 
 
 
 ![ezgif com-video-to-gif](https://github.com/patilchetan25/HealthApp/assets/88223249/0f9e8275-b15a-47ca-b25d-640e100124b2)
 
 
-## Link 
+## Link :point_down:
 [Health App](https://patilchetan25-healthapp-multiple-disease-pred-okcr7y.streamlit.app/)
