@@ -1,3 +1,3 @@
 # HealthApp
 
-## This is Multi Machine learning prediction app
+## This is Multi- Disease Machine learning prediction app
